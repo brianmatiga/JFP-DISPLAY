@@ -1,2 +1,2 @@
 # JFP-DISPLAY
-JFP pic and logo display
+JFP team pic and logo display
